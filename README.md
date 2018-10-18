@@ -1,2 +1,8 @@
-# flutter_unsplash_photos_bloc_pattern
-This is a Flutter project which consumes unsplash api to display photos and implementations of BLoC pattern 
+# flutter_photo
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
